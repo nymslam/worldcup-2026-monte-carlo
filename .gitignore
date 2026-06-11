@@ -1,0 +1,31 @@
+# Dataset -- not ours to redistribute, download from Kaggle
+results.csv
+data/results.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Mac system file
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
